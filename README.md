@@ -1,0 +1,47 @@
+# Rhapsody – Dawn of Victory
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:41.21] Fire is raging on the battlefield
+[00:44.07] While Arwald is fighting the war of the kings
+[00:47.20] The army of Dargor, the thunder, the storm...
+[00:49.65] So people are calling the brave and his sword
+[00:52.74] No time left to save the wise throne!
+[01:11.24] 
+[00:56.55] Shades of a past not so far to forget...
+[00:59.17] The rise of the demons from their bloody hell!
+[01:02.47] So come mighty warrior to light the lost hope
+[01:04.85] For Tharos the dragon and your cosmic soul...
+[01:07.97] Now handle your emerald sword!
+[01:22.97] 
+[01:11.37] For Ancelot
+[01:14.28] The ancient cross of war
+[01:18.24] For the holy town of gods
+[01:23.23] Gloria, gloria perpetua
+[01:32.18] In this dawn of victory
+[01:43.68] 
+[01:58.66] The ride of the dead and their practice of pain
+[02:01.12] Is pounding in him as a terrific quake
+[02:04.27] You're closer and closer now follow their smell
+[02:06.72] With your holy armour the steel in your hand
+[02:09.86] Fly angel of bloody revenge!
+[02:23.86] 
+[02:13.20] For Ancelot
+[02:16.17] The ancient cross of war
+[02:20.03] For the holy town of gods
+[02:25.06] Gloria, gloria perpetua
+[02:33.96] In this dawn of victory
+[02:45.46] 
+[03:24.51] Tragic and furious the clash of the steel of the gods
+[03:29.39] And so magic the power, the sword in his valorous hands
+[03:34.53] Oceans of fire are blasting the throne of the demons
+[03:39.52] And from distant red skies the thunders are calling his name
+[03:44.67] The name of the master of pain!
+[04:00.17] 
+[03:47.92] For Ancelot
+[03:50.93] The ancient cross of war
+[03:54.94] For the holy town of gods
+[03:59.93] Gloria, gloria perpetua
+[04:08.79] In this dawn of victory
+```
